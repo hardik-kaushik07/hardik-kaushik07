@@ -2,7 +2,7 @@
 
 **Java Backend Developer | B.Tech IT Student**
 
-[GitHub](https://github.com/hardik-kaushik07) · [LinkedIn](https://www.linkedin.com/in/hardikkaushik31) · [LeetCode](https://leetcode.com/u/hardik_kaushik) · [Email](mailto:hk.hardik.kaushik@gmail.com)
+[GitHub](https://github.com/hardik-kaushik07) · [LinkedIn](https://www.linkedin.com/in/hardikkaushik31) · [LeetCode](https://leetcode.com/u/hardik_kaushik) · [Email](mailto:kaushik.hardik@proton.me)
 
 ---
 
